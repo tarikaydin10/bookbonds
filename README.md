@@ -23,15 +23,16 @@ BookBonds is a web application designed to bring together book enthusiasts throu
 - **Notifications**: Stay updated with the latest activity in your book clubs.
 - **Improved UX/UI**: Continuous improvements to the user interface and experience.
 
+<br />
 
 ## Deutsche Beschreibung/German description
 
-**Dieses Repository dient als Portfolio-Projekt und soll meine Full-Stack-Entwicklungsfähigkeiten demonstrieren. Eine nutzbare Demo der Anwendung wird bald verfügbar sein, sodass Sie die Funktionen erkunden und die App selbst erleben können. Feedback und Beiträge sind willkommen!** <br> BookBonds ist eine Webanwendung, die Buchliebhaber durch gemeinsame Leseerfahrungen zusammenbringt. Das Projekt befindet sich derzeit in der Entwicklung und zeigt eine Full-Stack-Implementierung mit einem Vue.js-Frontend und einem Spring Boot-Backend.
+**Dieses Repository dient als Portfolio-Projekt und soll meine Full-Stack-Entwicklungsfähigkeiten demonstrieren. Eine nutzbare Demo der Anwendung wird bald verfügbar sein, sodass die Funktionen erkundet und die App selbst erlebt werden kann. Feedback und Beiträge sind willkommen!** <br> BookBonds ist eine Webanwendung, die Buchliebhaber durch gemeinsame Leseerfahrungen zusammenbringt. Das Projekt befindet sich derzeit in der Entwicklung und zeigt eine Full-Stack-Implementierung mit einem Vue.js-Frontend und einem Spring Boot-Backend.
 
 ## Funktionen
 - **Benutzerauthentifizierung**: Sicheres Anmelde- und Registrierungssystem.
 - **Club-Management**: Erstellen und Beitreten von Buchclubs, jeder mit eigenen Lese-Reisen.
-- **Diskussionsforen*: Engagiere dich in Gesprächen mit anderen Mitgliedern durch kapitelbasierte Kommentare und Antworten.
+- **Diskussionsforen**: Diskussionsplattfromen mit anderen Mitgliedern durch kapitelbasierte Kommentare und Antworten.
 - **Theming**: Anpassbare Oberflächen, um das Erlebnis zu personalisieren.
 
 ## Tech-Stack
@@ -40,6 +41,6 @@ BookBonds is a web application designed to bring together book enthusiasts throu
 - **Datenbank**: MySQL
 
 ## Zukünftige Funktionen
-- **Buchverwaltung**: Bald wird die App detaillierte Informationen über Bücher bereitstellen, um das Leseerlebnis zu verbessern.
+- **Buchverwaltung**: Bald wird die App Open-Source Buchdatenbanken integrieren um detaillierte Informationen über Bücher bereitzustellen, um das Nutzererlebnis zu verbessern.
 - **Benachrichtigungen**: Bleiben Sie über die neuesten Aktivitäten in Ihren Buchclubs auf dem Laufenden.
 - **Verbesserte UX/UI**: Kontinuierliche Verbesserungen der Benutzeroberfläche und des Benutzererlebnisses.
