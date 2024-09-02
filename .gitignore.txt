@@ -1,0 +1,55 @@
+# ---- Allgemeine Ausschlüsse ----
+# Betriebssystem-spezifische Dateien
+.DS_Store
+Thumbs.db
+
+# Logfiles
+*.log
+
+# Umgebungsvariablen
+.env
+.env.*
+
+# Ordner für IDEs und Editoren
+.idea/
+.vscode/
+
+# ---- Frontend spezifisch ----
+# Node modules
+node_modules/
+
+# Build-Ausgabe
+dist/
+build/
+
+# Temporäre Dateien
+tmp/
+temp/
+
+# Test Coverage
+coverage/
+
+# Yarn & npm Debug-Dateien
+yarn-error.log
+yarn-debug.log*
+npm-debug.log*
+
+# Lockfiles
+package-lock.json
+yarn.lock
+
+# ---- Backend spezifisch ----
+# Maven output directory
+target/
+
+# IDE Files
+.classpath
+.project
+.settings/
+
+# Spring Boot spezifisch
+*.jar
+*.war
+
+# Lombok generated files
+lombok.config

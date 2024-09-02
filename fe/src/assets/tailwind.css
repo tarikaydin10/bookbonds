@@ -1,0 +1,50 @@
+﻿@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: 'Playfair Display';
+        src: url('@/assets/fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf') format('truetype');
+        font-weight: 1 999; /* Supports all weights from 100 to 900 */
+        font-style: normal;
+    }
+    
+    @font-face {
+        font-family: 'Playfair Display';
+        src: url('@/assets/fonts/Playfair_Display/PlayfairDisplay-Italic-VariableFont_wght.ttf') format('truetype');
+        font-weight: 1 999;
+        font-style: italic;
+    }
+
+
+    @font-face {
+        font-family: 'Lora';
+        src: url('@/assets/fonts/Lora/Lora-VariableFont_wght.ttf') format('truetype');
+        font-weight: 1 999; /* Supports all weights from 100 to 900 */
+        font-style: normal;
+    }
+    
+    @font-face {
+        font-family: 'Lora';
+        src: url('@/assets/fonts/Lora/Lora-Italic-VariableFont_wght.ttf') format('truetype');
+        font-weight: 1 999;
+        font-style: italic;
+    }
+
+    
+    @font-face {
+        font-family: 'Raleway';
+        src: url('@/assets/fonts/Raleway/Raleway-VariableFont_wght.ttf') format('truetype');
+        font-weight: 1 999; /* Supports all weights from 100 to 900 */
+        font-style: normal;
+    }
+    
+    @font-face {
+        font-family: 'Raleway';
+        src: url('@/assets/fonts/Raleway/Raleway-Italic-VariableFont_wght.ttf') format('truetype');
+        font-weight: 1 999;
+        font-style: italic;
+    }
+}
+
