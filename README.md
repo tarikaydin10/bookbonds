@@ -3,7 +3,8 @@
 
 
 # BookBonds - Unite Over Stories
-**This repository serves as a portfolio project and is intended to demonstrate my full-stack development skills. A usable demo of the application will be available soon, allowing you to explore the features and experience the app firsthand. Feedback and contributions are welcome!** <br>
+**This repository serves as a portfolio project and is intended to demonstrate my full-stack development skills. A usable demo of the application will be available soon, allowing you to explore the features and experience the app firsthand. Feedback and contributions are welcome!** 
+<br>
 BookBonds is a web application designed to bring together book enthusiasts through shared reading experiences. Currently under development, this project showcases a full-stack implementation with a Vue.js frontend and a Spring Boot backend. 
 
 ## Features
@@ -27,7 +28,9 @@ BookBonds is a web application designed to bring together book enthusiasts throu
 
 ## Deutsche Beschreibung/German description
 
-**Dieses Repository dient als Portfolio-Projekt und soll meine Full-Stack-Entwicklungsfähigkeiten demonstrieren. Eine nutzbare Demo der Anwendung wird bald verfügbar sein, sodass die Funktionen erkundet und die App selbst erlebt werden kann. Feedback und Beiträge sind willkommen!** <br> BookBonds ist eine Webanwendung, die Buchliebhaber durch gemeinsame Leseerfahrungen zusammenbringt. Das Projekt befindet sich derzeit in der Entwicklung und zeigt eine Full-Stack-Implementierung mit einem Vue.js-Frontend und einem Spring Boot-Backend.
+**Dieses Repository dient als Portfolio-Projekt und soll meine Full-Stack-Entwicklungsfähigkeiten demonstrieren. Eine nutzbare Demo der Anwendung wird bald verfügbar sein, sodass die Funktionen erkundet und die App selbst erlebt werden kann. Feedback und Beiträge sind willkommen!** 
+<br> 
+BookBonds ist eine Webanwendung, die Buchliebhaber durch gemeinsame Leseerfahrungen zusammenbringt. Das Projekt befindet sich derzeit in der Entwicklung und zeigt eine Full-Stack-Implementierung mit einem Vue.js-Frontend und einem Spring Boot-Backend.
 
 ## Funktionen
 - **Benutzerauthentifizierung**: Sicheres Anmelde- und Registrierungssystem.
